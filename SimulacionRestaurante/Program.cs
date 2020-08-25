@@ -13,7 +13,7 @@ namespace SimulacionRestaurante
             Random cantidadCliente = new Random();
             // Creo al cliente
 
-            for (var i = 0; i < cantidadCliente.Next(100); i++)
+            for (var i = 0; i < cantidadCliente.Next(10); i++)
             {
                 Random cliente = new Random();
                 clientes.Add(cliente.Next());
@@ -46,9 +46,9 @@ namespace SimulacionRestaurante
             Console.WriteLine("Hilo #{0}", th.ManagedThreadId);
 
             Console.WriteLine("Bienvenido es un placer pode servirle: " + cliente);
-            Console.WriteLine("Puedo tomar su orden");
-            Console.WriteLine("Le dejo su cuenta por favor");
-            Console.WriteLine("Fue un placer poder servirle vuelva pronto ");
+            Console.WriteLine("Puedo tomar su orden" + cliente);
+            Console.WriteLine("Le dejo su cuenta por favor" + cliente);
+            Console.WriteLine("Fue un placer poder servirle vuelva pronto " + cliente);
             
 
         }
