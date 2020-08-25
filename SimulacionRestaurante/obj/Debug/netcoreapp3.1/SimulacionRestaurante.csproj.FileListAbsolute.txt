@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\bin\Debug\netcoreapp3.1\SimulacionRestaurante.exe
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\bin\Debug\netcoreapp3.1\SimulacionRestaurante.deps.json
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\bin\Debug\netcoreapp3.1\SimulacionRestaurante.runtimeconfig.json
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\bin\Debug\netcoreapp3.1\SimulacionRestaurante.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\bin\Debug\netcoreapp3.1\SimulacionRestaurante.dll
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\bin\Debug\netcoreapp3.1\SimulacionRestaurante.pdb
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\obj\Debug\netcoreapp3.1\SimulacionRestaurante.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\obj\Debug\netcoreapp3.1\SimulacionRestaurante.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\obj\Debug\netcoreapp3.1\SimulacionRestaurante.AssemblyInfo.cs
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\obj\Debug\netcoreapp3.1\SimulacionRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\obj\Debug\netcoreapp3.1\SimulacionRestaurante.dll
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\obj\Debug\netcoreapp3.1\SimulacionRestaurante.pdb
+C:\Users\usuario\source\repos\SimulacionRestaurante\SimulacionRestaurante\obj\Debug\netcoreapp3.1\SimulacionRestaurante.genruntimeconfig.cache
